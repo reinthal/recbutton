@@ -4,8 +4,8 @@ import reapy
 import json
 
 
-user = "donald.swansson+tplink.service@pm.me"
-pw = "Alelelolelol!23tp"
+user = "email@address.troll"
+pw = "somepassword"
 ip_address = "192.168.2.130"
 rec_lamp = lamp.P100(ip_address, user, pw)
 rec_lamp.handshake() #Creates the cookies required for further methods 
